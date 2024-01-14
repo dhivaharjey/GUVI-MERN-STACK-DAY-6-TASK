@@ -70,3 +70,5 @@ d) Write a piece of code that creates an instance of the class Movie with the ti
   - Uber price is calculated based on these distance , time in minutes and its peaktime or not.
 
 - The above question solution is in the **4.Uber-Price** folder
+
+>Thanks🙂
